@@ -1,0 +1,99 @@
+name: projectdam
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider_android: ^2.2.16
+  cupertino_icons: ^1.0.8
+  email_validator: ^3.0.0
+  flutter_rating_bar: ^4.0.1
+  mysql1: ^0.20.0
+  flutter_dotenv: ^5.1.0
+  crypto: ^3.0.2
+  http: ^1.3.0
+  provider: ^6.1.1
+  google_fonts: ^6.1.0
+  image_picker: ^1.0.4
+  cached_network_image: ^3.2.3
+  percent_indicator: ^4.2.2
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/books library.jpg
+    - assets/adventure.jpg
+    - assets/audiobooks.jpg
+    - assets/books.jpg
+    - assets/comics.jpg
+    - assets/cookbooks.jpg
+    - assets/educational books.jpg
+    - assets/fantasy.jpg
+    - assets/historical.jpg
+    - assets/horror.jpg
+    - assets/manga.jpg
+    - assets/novels.jpg
+    - assets/science fiction.jpg
+    - assets/scientific books.jpg
+    - assets/self help.jpg
+    - assets/to kill a mockingbird.png
+    - assets/ai.png
+    - assets/all the light we cannot see.png
+    - assets/aot.png
+    - assets/atomic habits.png
+    - assets/brave new world.png
+    - assets/bsd.png
+    - assets/crime and punishments.png
+    - assets/daring greatly.png
+    - assets/death note.png
+    - assets/dracula.png
+    - assets/dune.png
+    - assets/frankenstein.png
+    - assets/game of thrones.png
+    - assets/harry potter.png
+    - assets/house of leaves.png
+    - assets/how to win friends and influence people.png
+    - assets/it.png
+    - assets/naruto.png
+    - assets/neuromancer.png
+    - assets/pride and prejudice.png
+    - assets/sapiens.png
+    - assets/shogun.png
+    - assets/spy x family.png
+    - assets/the alchemist.png
+    - assets/the book thief.png
+    - assets/the catcher in the rye.png
+    - assets/the elegant universe.png
+    - assets/the gene.png
+    - assets/the great gatsby.png
+    - assets/the hobbit.png
+    - assets/the light we carry.png
+    - assets/the masters algorithm.png
+    - assets/the name of the wind.png
+    - assets/the nightingale.png
+    - assets/the pillars of the earth.png
+    - assets/the shining.png
+    - assets/the war of the worlds.png
+    - assets/the way of kings.png
+    - assets/habits.png
+    - assets/think and grow rich.png
+    - assets/tokyo ghoul.png
+    - assets/tokyo revengers.png

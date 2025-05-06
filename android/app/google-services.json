@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844531860905",
+    "project_id": "projectdam-3ae79",
+    "storage_bucket": "projectdam-3ae79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844531860905:android:415876bb697750cf25b0b8",
+        "android_client_info": {
+          "package_name": "com.example.projectdam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJrHvH22F5JXElCkfu_CwGHcC8WBF6mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
