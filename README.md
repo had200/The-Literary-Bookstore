@@ -1,22 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2B1D18&height=180&section=header&text=THE%20LITERARY%20BOOKSTORE&fontSize=35&fontColor=F5E6CA&fontAlignY=42&desc=HOME%20OF%20KNOWLEDGE%20%26%20IMAGINATION&descSize=15&descAlignY=68&descColor=D6B98C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241710,50:674735,100:C5A477&height=230&section=header&text=THE%20LITERARY%20BOOKSTORE&fontSize=36&fontColor=F8EBD5&fontAlignY=38&desc=HOME%20OF%20KNOWLEDGE%20%26%20IMAGINATION&descSize=15&descAlignY=60&descColor=EAD8B8" width="100%"/>
 
 ### ✦ A World of Stories, Knowledge & Imagination ✦
 
 **A Digital Bookstore Application**
 
+<img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
+
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-*"Every book opens a door to another world."*
+*“Every book opens a door to another world.”*
 
 </div>
 
@@ -30,23 +27,21 @@ Built with **Flutter**, the application combines an elegant literary-inspired in
 
 Beyond the reader experience, the platform includes an administrative space designed to simplify bookstore management.
 
-Our vision is simple:
-
-> To create more than a bookstore — a digital space where knowledge meets imagination.
+> Our vision is simple: to create more than a bookstore — a digital space where knowledge meets imagination.
 
 ---
 
 ## ✦ Features & Experiences
 
 ### 01 — Discover Your Next Story
-- Explore a collection of literary categories.
-- Browse books through an organized interface.
+- Explore literary categories.
+- Browse an organized book catalog.
 - Search for books.
 - View book covers, descriptions and prices.
 
 ### 02 — Your Personal Library
 - Explore different literary genres.
-- Access book details.
+- Access detailed book information.
 - Discover novels, fantasy, horror, science fiction, manga and scientific books.
 
 ### 03 — A Personalized Experience
@@ -58,7 +53,7 @@ Our vision is simple:
 ### 04 — Administration Dashboard
 - Administrator authentication.
 - Add new books.
-- Update existing book information.
+- Update book information.
 - Delete books.
 - Search and manage the catalog.
 - Manage registered users.
@@ -69,23 +64,39 @@ Our vision is simple:
 
 <div align="center">
 
-**A glimpse into the literary experience**
+### A glimpse into the literary experience
+
+*Explore. Discover. Read. Enjoy.*
 
 </div>
 
-> Add your own application screenshots here.
+### 🏡 Home — Discover Your Next Story
 
-| Home | Book Library |
-|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Library](screenshots/library.png) |
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/home.png" width="80%" alt="The Literary Bookstore Home Screen"/>
+</div>
 
-| Book Details | Shopping Cart |
-|:---:|:---:|
-| ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) |
+### 📚 Library — Explore the Collection
 
-| Favorites | Admin Dashboard |
-|:---:|:---:|
-| ![Favorites](screenshots/favorites.png) | ![Admin](screenshots/admin.png) |
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/library.png" width="80%" alt="Book Library"/>
+</div>
+
+### 📖 Book Details & Shopping Cart
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/details.png" width="42%" alt="Book Details"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/cart.png" width="42%" alt="Shopping Cart"/>
+</div>
+
+### ♡ Favorites & Administration
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/favorites.png" width="42%" alt="Favorites"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/The-Literary-Bookstore/main/screenshots/admin.png" width="42%" alt="Admin Dashboard"/>
+</div>
 
 ---
 
@@ -93,7 +104,7 @@ Our vision is simple:
 
 | Technology | Purpose |
 |---|---|
-| Flutter | Cross-platform mobile interface |
+| Flutter | Mobile application interface |
 | Dart | Application development |
 | PHP | Backend and API development |
 | MySQL | Database management |
@@ -145,8 +156,6 @@ The application follows a three-layer architecture:
 
 ### Prerequisites
 
-Make sure you have installed:
-
 - Flutter SDK
 - Dart SDK
 - Android Studio
@@ -193,10 +202,10 @@ flutter run
 
 The visual identity of The Literary Bookstore is inspired by the timeless atmosphere of traditional libraries.
 
-- **Warm Colors:** A carefully selected palette inspired by books, paper and wood.
-- **Elegant Typography:** Literary-inspired fonts for a refined reading atmosphere.
-- **Intuitive Navigation:** A simple and accessible user experience.
-- **Dual Themes:** Light and dark modes to adapt to user preferences.
+- **Warm Colors:** A palette inspired by books, paper and wood.
+- **Elegant Typography:** Literary-inspired fonts.
+- **Intuitive Navigation:** A simple and accessible experience.
+- **Dual Themes:** Light and dark modes.
 
 ---
 
@@ -217,10 +226,10 @@ The visual identity of The Literary Bookstore is inspired by the timeless atmosp
 
 *Where every page begins a new adventure.*
 
-**THE LITERARY BOOKSTORE**
+### THE LITERARY BOOKSTORE
 
-<sub>HOME OF KNOWLEDGE & IMAGINATION</sub>
+**HOME OF KNOWLEDGE & IMAGINATION**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1D18&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241710,50:674735,100:C5A477&height=110&section=footer" width="100%"/>
 
 </div>
