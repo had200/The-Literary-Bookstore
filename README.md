@@ -2,9 +2,16 @@
 
 ### *Home of Knowledge & Imagination*
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" alt="Flutter">   \<img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)" alt="Dart">   \<img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)" alt="PHP">   \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" alt="MySQL"> \</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" alt="Flutter">
+&#x20; \<img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)" alt="Dart">
+&#x20; \<img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)" alt="PHP">
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" alt="MySQL">
+\</p>
 
-\<p align="center">   A modern bookstore application bringing the world of literature closer to everyone. \</p>
+\<p align="center">
+&#x20; \<strong>A modern bookstore application bringing the world of literature closer to everyone.\</strong>
+\</p>
 
 ---
 
@@ -35,4 +42,10 @@ Designed for book lovers, it offers a simple and enjoyable way to discover books
 
 ---
 
-\<p align="center">   \*\*THE LITERARY BOOKSTORE\*\*   \<br>   \*Home of Knowledge & Imagination\*   \<br>\<br>   📚 \*Every book opens a new world.\* \</p>
+\<p align="center">
+&#x20; \<strong>THE LITERARY BOOKSTORE\</strong>
+&#x20; \<br>
+&#x20; \<em>Home of Knowledge & Imagination\</em>
+&#x20; \<br>\<br>
+&#x20; 📚 \<em>Every book opens a new world.\</em>
+\</p>
